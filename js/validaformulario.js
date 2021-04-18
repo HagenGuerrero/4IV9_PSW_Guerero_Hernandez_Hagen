@@ -88,3 +88,4 @@ function validar(formulario){
 
 
 }
+//[A-Za-zñ]+[ ][A-ZÑa-zñ]*
